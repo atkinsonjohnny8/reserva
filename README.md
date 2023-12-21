@@ -1,3 +1,5 @@
+An app for hotel reservations.
+It is on an LTS version
 it requires:
 python 3.11.4
 django 3.2
