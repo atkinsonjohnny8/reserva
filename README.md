@@ -1,4 +1,4 @@
-An app for hotel reservations.
+An app for hotel booking.
 It is on an LTS version
 it requires:
 python 3.11.4
